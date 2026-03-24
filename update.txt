@@ -1,1 +1,1 @@
-bore.pub:29305
+activate:10.0.2.15:lPWvlnoJ2Li5ohW1O5fPeIWykyhB4y5nJUFCF6UtJBE=
